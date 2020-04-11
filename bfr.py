@@ -8,6 +8,7 @@ import sys
 import csv
 import json
 import time
+from kmeans_class import KMeans
 
 def find_point_belonging(sumer_dict,threshold,d_index,d_features):
         min_distance=float("inf")
