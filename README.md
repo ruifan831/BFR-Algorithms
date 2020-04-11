@@ -1,5 +1,6 @@
 # BFR-Algorithms
 Iteratively load the data points from a file and process these data points with the BFR algorithm.
+The first column of the file is the data point index. The rest columns represent the features/dimensions of the data point.
 
 # Bradley-Fayyad-Reina (BFR) algorithms implementation detail:
 
