@@ -1,4 +1,5 @@
 # BFR-Algorithms
+Iteratively load the data points from a file and process these data points with the BFR algorithm.
 
 # Bradley-Fayyad-Reina (BFR) algorithms implementation detail:
 
